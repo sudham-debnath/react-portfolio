@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sudham-debnath/react-portfolio/static/css/main.47948e7b.css",
+    "main.js": "/sudham-debnath/react-portfolio/static/js/main.50729319.js",
+    "static/media/person-3.png": "/sudham-debnath/react-portfolio/static/media/person-3.5dd0b714cfc8d2673b79.png",
+    "static/media/person-2.png": "/sudham-debnath/react-portfolio/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/person-1.png": "/sudham-debnath/react-portfolio/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "static/media/brush.png": "/sudham-debnath/react-portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/sudham-debnath/react-portfolio/index.html",
+    "main.47948e7b.css.map": "/sudham-debnath/react-portfolio/static/css/main.47948e7b.css.map",
+    "main.50729319.js.map": "/sudham-debnath/react-portfolio/static/js/main.50729319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47948e7b.css",
+    "static/js/main.50729319.js"
+  ]
+}
