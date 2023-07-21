@@ -1,2 +1,2 @@
 ## React Portfolio App
-Portfolio with React
+Demo Portfolio with React
